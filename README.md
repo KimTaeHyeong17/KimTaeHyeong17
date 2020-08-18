@@ -1,4 +1,6 @@
-<h2>TaeHyeong Kim. AKA HaningYa</h2>
+<h1> READ ME IS UNDER CONSTRUCTION </h1>
+
+<h2>TaeHyeong Kim</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,6 +13,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
+
 - 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
