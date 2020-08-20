@@ -16,14 +16,14 @@
 
 - 💻 &nbsp; Swift | Java | Kotlin | Python | C++ | C |
 - 🌐 &nbsp; iOS | Android | Spring-Boot
-- 🛢 &nbsp;
-- 🔧 &nbsp; 
-- 🖥 &nbsp; 
+- 🛢 &nbsp; PNU DSC (Developer Student Club) Core Member (iOS Session)
+- 🔧 &nbsp; Dreamin-iOS Academy Students
+- 🖥 &nbsp; Looking for job as iOS Developer
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimTaeHyeong17)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<a href="https://haningya.tistroy.com"><img alt="Blog" src=""></a>
+<a href="https://haningya.tistroy.com"><img alt="Blog" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechwillgo.tistory.com%2F70&psig=AOvVaw2mz0bQ6k8qdrvlEqJg5Q0r&ust=1598011681237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjaicffqesCFQAAAAAdAAAAABAD"></a>
 <a href="https://www.linkedin.com/in/taehyeongkim17/"><img alt="LinkedIn" src=""></a>
 <a href="uuzaza@naver.com"><img alt="Email" src=""></a>
 </p>
