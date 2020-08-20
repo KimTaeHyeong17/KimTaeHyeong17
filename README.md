@@ -18,7 +18,7 @@
 - 🌐 &nbsp; iOS | Android | Spring-Boot
 - 🛢 &nbsp;
 - 🔧 &nbsp; 
-- 🖥 &nbsp; using macbook pro 15 (late 2018)
+- 🖥 &nbsp; 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimTaeHyeong17)](https://github.com/anuraghazra/github-readme-stats)
 
