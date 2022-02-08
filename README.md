@@ -22,8 +22,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimTaeHyeong17)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<a href="https://haningya.tistroy.com"></a>
-<a href="https://www.linkedin.com/in/taehyeongkim17/"></a>
-<a href="uuzaza@naver.com"></a>
-</p>
+
+- [Blog](https://haningya.tistroy.com)
+- [LinkedIn](https://www.linkedin.com/in/taehyeongkim17/)
+- [email - uuzaza@naver.com]
+
